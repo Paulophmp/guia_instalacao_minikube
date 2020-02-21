@@ -1,4 +1,4 @@
-# Guia nstalacao Minikube
+# Guia Instalação Minikube
 [ Descomplicando o Kubernetes ] - KUBERNETES e INSTALANDO o MINIKUBE
 
 ## INSTALANDO O KUBECTL
@@ -9,7 +9,7 @@
 # sudo chmod +x kubectl && sudo mv kubectl /usr/local/bin/
 ```
 
-INSTALANDO O MINIKUBE -- latest
+## INSTALANDO O MINIKUBE -- latest
 ```
 # curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
 ```
@@ -18,7 +18,7 @@ INSTALANDO O MINIKUBE -- latest
 ```
 
 
-INSTALANDO VIRTUALBOX-6.0 NO UBUNTU 18.04 LTS
+## INSTALANDO VIRTUALBOX-6.0 NO UBUNTU 18.04 LTS
 
 
 Para instalar o VirtualBox-6.0 no Ubuntu 18.04 LTS e também no Linux Mint 19, abra um terminal e siga os passos abaixo.
