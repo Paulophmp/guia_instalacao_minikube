@@ -1,5 +1,5 @@
 # Guia Instalação Minikube
-[ Descomplicando o Kubernetes ] - KUBERNETES e INSTALANDO o MINIKUBE
+Descomplicando o Kubernetes - KUBERNETES e INSTALANDO o MINIKUBE
 
 ## INSTALANDO O KUBECTL
 ```
@@ -18,7 +18,7 @@
 ```
 
 
-## INSTALANDO VIRTUALBOX-6.0 NO UBUNTU 18.04 LTS
+## INSTALANDO VIRTUALBOX-6.0 NO UBUNTU
 
 
 Para instalar o VirtualBox no Ubuntu, abra um terminal e siga os passos abaixo.
