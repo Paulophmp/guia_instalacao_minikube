@@ -1,5 +1,5 @@
 # Guia Instalação Minikube
-Descomplicando o Kubernetes - KUBERNETES e INSTALANDO o MINIKUBE
+  O Minikube é uma ferramenta que facilita executar o Kubernetes localmente, executando um cluster de Kubernetes com um único nó.
 
 ## INSTALANDO O KUBECTL
 ```
