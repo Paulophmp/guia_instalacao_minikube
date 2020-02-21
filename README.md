@@ -38,3 +38,5 @@ Para instalar o VirtualBox-6.0 no Ubuntu 18.04 LTS e também no Linux Mint 19, a
 
  sudo apt install virtualbox-6.0
  
+
+sudo minikube start --vm-driver=none
