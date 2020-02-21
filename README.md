@@ -1,20 +1,21 @@
-# guia_instalacao_minikube
+# Guia nstalacao Minikube
 [ Descomplicando o Kubernetes ] - KUBERNETES e INSTALANDO o MINIKUBE
 
-
-INSTALANDO O KUBECTL
-
+## INSTALANDO O KUBECTL
+```
 # curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl
-
+```
+```
 # sudo chmod +x kubectl && sudo mv kubectl /usr/local/bin/
-
+```
 
 INSTALANDO O MINIKUBE -- latest
-
+```
 # curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
-
+```
+```
 # sudo chmod +x minikube && sudo mv minikube /usr/local/bin/
-
+```
 
 
 INSTALANDO VIRTUALBOX-6.0 NO UBUNTU 18.04 LTS
