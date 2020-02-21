@@ -1,6 +1,12 @@
 # Guia Instalação Minikube
   O Minikube é uma ferramenta que facilita executar o Kubernetes localmente, executando um cluster de Kubernetes com um único nó.
 
+## Requisitos
+
+* kubectl
+* minikube
+* virtual-box
+
 ## INSTALANDO O KUBECTL
 ```
 # curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl
