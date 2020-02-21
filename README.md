@@ -25,19 +25,22 @@ Para instalar o VirtualBox-6.0 no Ubuntu 18.04 LTS e também no Linux Mint 19, a
 
 1. Importe a chave pública do repositório:
 
+```
  wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
-
+```
 2. Adicione o repositório do VirtualBox:
-
+```
  echo "deb [arch=amd64] http://download.virtualbox.org/virtualbox/debian bionic contrib" | sudo tee /etc/apt/sources.list.d/virtualbox.list
-
+```
 3. Atualize seus repositórios:
-
+```
  sudo apt update
-
+```
 4. Instale o VirtualBox:
 
+```
  sudo apt install virtualbox-6.0
- 
-
+ ```
+```
 sudo minikube start --vm-driver=none
+```
