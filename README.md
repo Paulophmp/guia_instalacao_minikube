@@ -41,6 +41,4 @@ Para instalar o VirtualBox no Ubuntu, abra um terminal e siga os passos abaixo.
 ```
  sudo apt install virtualbox-6.0
  ```
-```
-sudo minikube start --vm-driver=none
-```
+
