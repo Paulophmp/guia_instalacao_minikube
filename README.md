@@ -49,5 +49,5 @@ sudo apt update
 sudo apt install virtualbox-6.0
  ```
 
-4.1 Ou baixar .deb diretamente do site
+1.1 Ou baixar .deb diretamente do site
 https://www.virtualbox.org
